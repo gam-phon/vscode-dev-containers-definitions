@@ -1,4 +1,4 @@
-# VSCode Development Container Definitions
+# VS Code Development Container Definitions
 
 These are collections of VS Code dev-containers definitions, that may help you in your projects
 
