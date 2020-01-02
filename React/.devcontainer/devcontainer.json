@@ -21,13 +21,21 @@
   },
   "appPort": 3000,
   "extensions": [
+    // ESlint
     "dbaeumer.vscode-eslint",
+    // Stylelint
     "hex-ci.stylelint-plus",
+    // Prettier
     "esbenp.prettier-vscode",
+    // NPM
     "eg2.vscode-npm-script",
-    "christian-kohler.path-intellisense",
-    "christian-kohler.npm-intellisense",
+    //"christian-kohler.path-intellisense",
+    //"christian-kohler.npm-intellisense",
+    // Error Lens
     "usernamehw.errorlens",
-    "wayou.vscode-todo-highlight"
+    // TODO
+    "wayou.vscode-todo-highlight",
+    // Markdown
+    "yzhang.markdown-all-in-one"
   ]
 }

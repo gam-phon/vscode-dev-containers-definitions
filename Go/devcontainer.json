@@ -33,9 +33,15 @@
 	},
 	// "appPort": [],
 	"extensions": [
+		// Go
 		"ms-vscode.go",
+		// Proto3
 		"zxh404.vscode-proto3",
+		// Error Lens
 		"usernamehw.errorlens",
-		"wayou.vscode-todo-highlight"
+		// TODO
+		"wayou.vscode-todo-highlight",
+		// Markdown
+		"yzhang.markdown-all-in-one"
 	]
 }

@@ -16,10 +16,17 @@
     5500
   ],
   "extensions": [
-    "hex-ci.stylelint-plus",
-    "esbenp.prettier-vscode",
-    "usernamehw.errorlens",
+    // Live Server
     "ritwickdey.liveserver",
-    "wayou.vscode-todo-highlight"
+    // Stylelint
+    "hex-ci.stylelint-plus",
+    // Prettier
+    "esbenp.prettier-vscode",
+    // Error Lens
+    "usernamehw.errorlens",
+    // TODO
+    "wayou.vscode-todo-highlight",
+    // Markdown
+    "yzhang.markdown-all-in-one"
   ]
 }
