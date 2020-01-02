@@ -6,4 +6,7 @@ These are collections of VS Code development container definitions, that may hel
 
 Install these local extensions:
 
+* `ms-vscode-remote.remote-containers`
+* `vscodevim.vim`
+* `vscode-icons-team.vscode-icons`
 * `coenraads.bracket-pair-colorizer-2`

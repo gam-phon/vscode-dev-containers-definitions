@@ -19,6 +19,7 @@
     "hex-ci.stylelint-plus",
     "esbenp.prettier-vscode",
     "usernamehw.errorlens",
-    "ritwickdey.liveserver"
+    "ritwickdey.liveserver",
+    "wayou.vscode-todo-highlight"
   ]
 }
