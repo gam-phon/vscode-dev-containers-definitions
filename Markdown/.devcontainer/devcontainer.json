@@ -1,0 +1,22 @@
+{
+  "name": "Markdown",
+  "context": "..",
+  "dockerFile": "Dockerfile",
+  "settings": {
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "remote.extensionKind": {
+      "CoenraadS.bracket-pair-colorizer-2": "ui"
+    },
+    "todohighlight.include": [
+      "**/*.md"
+    ]
+  },
+  "extensions": [
+    "esbenp.prettier-vscode",
+    "usernamehw.errorlens",
+    "wayou.vscode-todo-highlight",
+    "yzhang.markdown-all-in-one"
+  ]
+}
