@@ -10,3 +10,10 @@ Install these local extensions:
 * `vscodevim.vim`
 * `vscode-icons-team.vscode-icons`
 * `coenraads.bracket-pair-colorizer-2`
+
+
+Font
+
+Fira Code
+https://github.com/tonsky/FiraCode/wiki/Installing
+https://github.com/tonsky/FiraCode/wiki/VS-Code-Instructions
