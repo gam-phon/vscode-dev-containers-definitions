@@ -32,7 +32,7 @@
 	// "appPort": [],
 	"extensions": [
 		// Go
-		"ms-vscode.go",
+		"golang.go",
 		// Proto3
 		"zxh404.vscode-proto3",
 		// Error Lens
